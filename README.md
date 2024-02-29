@@ -3,5 +3,7 @@ Nettoyage de la base de données Rappel Conso (Data Gouv) qui collecte les produ
 
 ![Corrélation entre motifs et mode de conservation](https://github.com/Aurelie9/Rappel-Conso/assets/161243335/5161cf6f-d7ce-4a93-9790-3f55526a5a4e)
 
+![Corrélation entre les marques et les motifs de rappel](https://github.com/Aurelie9/Rappel-Conso/assets/161243335/42adc3db-0a29-41f1-9460-5015bda1b920)
 
 
+![Les motifs de rappel dans le temps](https://github.com/Aurelie9/Rappel-Conso/assets/161243335/56c60c75-4f3d-4b32-83b7-d4831688e27f)
