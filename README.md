@@ -5,6 +5,7 @@ Nettoyage de la base de données Rappel Conso (Data Gouv) qui collecte les produ
 ## Retrouvez l'ensemble des graphiques sur Tableau Visualisation
 > https://public.tableau.com/app/profile/aur.lie.thalmensi/viz/VisualisationRappelConso/Catgoriesdeproduits?publish=yes
 
+
 ## Quelques exemples d'analyses
 
 ### Analyse n°1
