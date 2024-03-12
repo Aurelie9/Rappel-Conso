@@ -1,5 +1,11 @@
-# Rappel-Conso
+# Rappel_Conso
 Nettoyage de la base de données Rappel Conso (Data Gouv) qui collecte les produits non conformes entre 2018 et 2023. La problématique Business est : Comment optimiser vos commandes en limitant les produits non conformes ? Vous retrouverez le jeu de données sale, le code de nettoyage ainsi que les trois recommandations qui s'écoule de cette analyse.
+
+![rappel conso logo](https://github.com/Aurelie9/Rappel-Conso/assets/161243335/5290dbb5-9347-477a-a8a0-ec6ca4dc2ea5)
+
+![rappel_conso](https://github.com/Aurelie9/Rappel-Conso/assets/161243335/cb421292-2b61-41eb-8f1f-7457ba7ed2cb)
+
+
 
 
 ## Retrouvez l'ensemble des graphiques sur Tableau Visualisation
